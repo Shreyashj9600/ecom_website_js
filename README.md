@@ -4,4 +4,4 @@
 
 <br>
 
-link : https://webecom.netlify.app/ 
+live demo : https://webecom.netlify.app/ 
